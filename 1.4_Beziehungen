@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T04:07:37.725Z" agent="5.0 (X11)" etag="hdrEauUuyWb-mA1Rq7CZ" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T04:08:14.848Z" agent="5.0 (X11)" etag="IqBoE_JwE3R2xkMpTR_B" version="13.8.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="734" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="ksD2MnHAIe4OQ9lOpf-g-47" value="SCHULKLASSE" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="520" width="160" height="160" as="geometry">
-            <mxRectangle x="330" y="520" width="140" height="26" as="alternateBounds" />
+            <mxRectangle x="360" y="520" width="140" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ksD2MnHAIe4OQ9lOpf-g-48" value="name&#xa;raum&#xa;stufe&#xa;groesseMax&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ksD2MnHAIe4OQ9lOpf-g-47" vertex="1">
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="ksD2MnHAIe4OQ9lOpf-g-51" value="SCHUELER" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="520" width="160" height="160" as="geometry">
-            <mxRectangle x="750" y="510" width="110" height="26" as="alternateBounds" />
+            <mxRectangle x="640" y="520" width="110" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ksD2MnHAIe4OQ9lOpf-g-52" value="name&#xa;vorname&#xa;geschlecht&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ksD2MnHAIe4OQ9lOpf-g-51" vertex="1">
