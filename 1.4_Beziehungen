@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T02:34:08.508Z" agent="5.0 (X11)" etag="acU9_0yxdZE5F8pSGyT1" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-18T02:39:03.519Z" agent="5.0 (X11)" etag="9pMc0oX-7nIisWYJDafC" version="13.8.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1408" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
             <mxRectangle x="440" y="560" width="140" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ksD2MnHAIe4OQ9lOpf-g-48" value="name&#xa;raum&#xa;stufe&#xa;groesseMax&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ksD2MnHAIe4OQ9lOpf-g-47" vertex="1">
+        <mxCell id="ksD2MnHAIe4OQ9lOpf-g-48" value="raum = 125&#xa;stufe = 7&#xa;groesseMax = 15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ksD2MnHAIe4OQ9lOpf-g-47" vertex="1">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ksD2MnHAIe4OQ9lOpf-g-49" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ksD2MnHAIe4OQ9lOpf-g-47" vertex="1">
@@ -144,7 +144,7 @@
             <mxRectangle x="440" y="760" width="140" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ibCJwwkvtHvGa63K-pZ-16" value="name&#xa;raum&#xa;stufe&#xa;groesseMax&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ibCJwwkvtHvGa63K-pZ-15" vertex="1">
+        <mxCell id="8ibCJwwkvtHvGa63K-pZ-16" value="raum = 225&#xa;stufe = 8&#xa;groesseMax = 20&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ibCJwwkvtHvGa63K-pZ-15" vertex="1">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8ibCJwwkvtHvGa63K-pZ-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="8ibCJwwkvtHvGa63K-pZ-15" vertex="1">
